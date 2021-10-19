@@ -3,7 +3,7 @@
 <h3>Introduction</h3>
 
 <p>IPFS, or InterPlanetary File System, is a peer-to-peer hypermedia protocol for preserving and growing humanity's knowledge.
-We can use the IPFS for pinning files, media, application data, and much more in a decentralized and distributed way. 
+We can use the IPFS for pinning files, media, application data, and much more using a decentralized and distributed network. 
 Visit the link to <a href="https://ipfs.io/">learn more</a>.</p>
 
 <h3> Features </h3>
