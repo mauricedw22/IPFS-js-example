@@ -15,7 +15,7 @@ Visit the link to <a href="https://ipfs.io/">learn more</a>.</p>
 </ul>
 
 <h3>Installation</h3>
-<ul style="list-style-type:number;">
+<ul style="list-style-type:decimal;">
  <li>On each directory, run <code>npm install</code></li>
  <li>Application launches at <code>http://localhost:5000</code></li>
 </ul>
