@@ -17,7 +17,7 @@ app.get('', (req, res) => {
 });
 
 app.listen(3000, () => {
-  console.log('Server is up and running on http://127.0.0.1:3000');
+  console.log('Server is up and running on http://127.0.0.1:5000');
 });
 
 app.post('/addData', (req, res) => {
